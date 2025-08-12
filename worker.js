@@ -2,7 +2,7 @@
 const upstream = 'google.com'
  
 // 如果那个站点有专门的移动适配站点，否则保持和上面一致
-const upstream_mobile = 'm.google.com'
+const upstream_mobile = 'google.com'
  
 // 你希望禁止哪些国家访问
 const blocked_region = ['KP']
